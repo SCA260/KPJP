@@ -65,7 +65,7 @@ body{
     background-color: white;
     display: flexbox;
     .lien_cjp{
-        font-size:0.8rem;
+        font-size:0.7rem;
     }
     ul{
         display: inline-flex;
