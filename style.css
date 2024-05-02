@@ -65,7 +65,7 @@ body{
     background-color: white;
     display: flexbox;
     .lien_cjp{
-        font-size:0.7rem;
+        font-size:0.6rem;
     }
     ul{
         display: inline-flex;
@@ -83,7 +83,7 @@ body{
 
 @media screen and (min-width: 800px) {
         body{
-            #lien_cjp{
+            .lien_cjp{
                 font-size:larger;
             }
             ul{
