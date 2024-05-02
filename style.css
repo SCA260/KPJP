@@ -58,7 +58,7 @@ li{
 body{
     background-color: white;
     display: flexbox;
-    #lien_cjp{
+    .lien_cjp{
         font-size:0.8rem;
     }
     ul{
