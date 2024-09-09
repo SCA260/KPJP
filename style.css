@@ -92,3 +92,16 @@ body{
         }
     }
 
+    .instagram-link {
+        display: flex;
+        align-items: center;
+        /*text-decoration: none;*/
+        /*color: inherit; /* Garde la couleur du texte par défaut */
+    }
+    
+    .instagram-logo {
+        width: 24px;
+        height: 24px;
+        margin-right: 8px; /* Espace entre le logo et le texte */
+    }
+    
