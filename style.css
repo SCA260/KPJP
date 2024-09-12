@@ -95,8 +95,8 @@ body{
     .instagram-link {
         display: flex;
         align-items: center;
-        /*text-decoration: none;*/
-        /*color: inherit; /* Garde la couleur du texte par défaut */
+        text-decoration: none;
+        color: inherit; /* Garde la couleur du texte par défaut */
     }
     
     .instagram-logo {
