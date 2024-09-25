@@ -57,6 +57,14 @@ li{
     width: 220px;
     height: 220px;
     object-fit: contain;
+    box-shadow:
+        3.4px 3.4px 2.7px rgba(0, 0, 0, 0.022),
+        8.7px 8.7px 6.9px rgba(0, 0, 0, 0.031),
+        17.7px 17.7px 14.2px rgba(0, 0, 0, 0.039),
+        36.5px 36.5px 29.2px rgba(0, 0, 0, 0.048),
+        100px 100px 80px rgba(0, 0, 0, 0.07)
+    ;
+    border-radius: 6px;
 }
 
 body{
@@ -76,7 +84,11 @@ body{
         display:inline-block;
         align-items:baseline;
     } 
+    #Informations{
+        padding: 2px;
+        background-color: #e5e7e6;
 
+    }
 }    
 
 @media screen and (min-width: 800px) {
